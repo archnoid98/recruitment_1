@@ -1,0 +1,2 @@
+Autonomous_jarif
+-DCATKIN_DEVEL_PREFIX=/home/archnoid/recruitment_ws/devel -DCMAKE_INSTALL_PREFIX=/home/archnoid/recruitment_ws/install -G Unix Makefiles

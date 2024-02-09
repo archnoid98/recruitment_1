@@ -1,0 +1,8 @@
+prefix=/home/archnoid/recruitment_ws/install
+
+Name: Autonomous_jarif
+Description: Description of Autonomous_jarif
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

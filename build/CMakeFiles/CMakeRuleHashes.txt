@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+91843652b4d30305fbace02ef3fdf4db /home/archnoid/recruitment_ws/devel/share/roseus/ros/Autonomous_jarif/manifest.l
+1a9d1412def3246f60f0a76c9e8ba774 Autonomous_jarif/CMakeFiles/Autonomous_jarif_generate_messages_eus
+a641aecd66f9e25170d910e5cca15a5e CMakeFiles/clean_test_results
